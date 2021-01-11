@@ -1,0 +1,15 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "Hangman for interview project",
+  "main": "hangman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Huff",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "prompt-sync": "^4.2.0"
+  }
+}
